@@ -23,10 +23,6 @@
 
 :heavy_check_mark: Funcionalidade 4  
 
-## Pré-requisitos
-
-Liste todas as dependencias e libs que o usuário deve ter instalado na máquina antes de rodar a aplicação 
-
 ## Linguagens, dependencias e libs utilizadas :books:
 
 - [Python]
