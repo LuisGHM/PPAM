@@ -10,18 +10,16 @@
 ## Descrição do projeto 
 
 <p align="justify" id="descrição-do-projeto">
-  Descrição breve do projeto compondo um paragrafo ou dois. 
+  Este projeto combina técnicas de inteligência artificial e programação em Python para criar um sistema de recomendação de livros. Utilizando o algoritmo KNN (K-Nearest Neighbors), a IA analisa padrões nos dados de usuários e livros para sugerir leituras personalizadas. O ambiente interativo do Jupyter foi fundamental para desenvolver e visualizar o processo de recomendação, permitindo uma análise detalhada dos resultados e uma interface amigável para os usuários explorarem novas leituras.
 </p>
 
 ## Funcionalidades
 
-:heavy_check_mark: Funcionalidade 1  
+:heavy_check_mark: Recomendação Personalizada  
 
-:heavy_check_mark: Funcionalidade 2  
+:heavy_check_mark: Avaliações e Feedback  
 
-:heavy_check_mark: Funcionalidade 3  
-
-:heavy_check_mark: Funcionalidade 4  
+:heavy_check_mark: Atualizações Automáticas  
 
 ## Linguagens, dependencias e libs utilizadas :books:
 
